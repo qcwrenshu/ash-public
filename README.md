@@ -4,27 +4,25 @@
 
 # ash-public
 
-Ash 2: Stormworks RP server management bot
+Ash 2: Discord bot - Administration service for StormLands (Stormworks RP server)
 
-Written in JavaScript
+Written in JavaScript (discord.js on Node.js)
 
-Created by @.fuckme
+(@qcwrenshu turnip)
 
 # Features
 
 - Economy system based on accounts
 - Leaderboards
-- Group system
-- Full entity permissions system
-- Nations and factions
-- Player data and barebones verification system
-- Command handler for prefix and app commands
+- Group system --> nations and factions
+- Entity permissions system
+- In-game player data and verification framework
+- Command handler for both prefix and app commands
 - GraphQL server
-- A performant, consistent, easy-to-use design
 
 ## Differences from StormLands Ash
 
-Ash Public omits some features from StormLands Ash.
+Ash Public omits some features from StormLands Ash that we are not ready to release yet.
 
 Notably, it omits:
 - Ash Vehicles (Vehicles system)
@@ -51,8 +49,9 @@ For more information, see the comments at the top of each file.
 
 Thank you for using StormLands Ash.
 
-This version of Ash is provided with no warranty, no guarantee, and no support. Please attribute correctly.
+This version of Ash is provided with no warranty, no guarantee, and no support. Please attribute correctly!
 
 <p align="center">
   <img src="https://cdn.discordapp.com/banners/761358247373438997/24e062660c7562a9b4a5e68b5b6cbee2.png?size=1024" />
+
 </p>
