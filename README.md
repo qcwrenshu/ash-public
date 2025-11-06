@@ -50,8 +50,3 @@ For more information, see the comments at the top of each file.
 Thank you for using StormLands Ash.
 
 This version of Ash is provided with no warranty, no guarantee, and no support. Please attribute correctly!
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/banners/761358247373438997/24e062660c7562a9b4a5e68b5b6cbee2.png?size=1024" />
-
-</p>
